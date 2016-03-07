@@ -1,5 +1,5 @@
 {
-  "name": "lukasbesch/acf-range-field",
+  "name": "viriava/acf-range-field",
   "description": "Range field for Advanced Custom Fields.",
   "keywords": ["wordpress", "plugin", "advancedcustomfields", "acf", "custom-post-types"],
   "homepage": "https://github.com/lukasbesch/acf-field-range",
