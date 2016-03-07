@@ -1,0 +1,10 @@
+{
+    "name": "lukasbesch/acf-range-field",
+    "authors": [
+        {
+            "name": "Lukas Besch",
+            "email": "connect@lukasbesch.com"
+        }
+    ],
+    "require": {}
+}
