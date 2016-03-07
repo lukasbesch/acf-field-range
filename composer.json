@@ -1,10 +1,16 @@
 {
-    "name": "lukasbesch/acf-range-field",
-    "authors": [
+  "name": "lukasbesch/acf-range-field",
+  "description": "Range field for Advanced Custom Fields.",
+  "keywords": ["wordpress", "plugin", "advancedcustomfields", "acf", "custom-post-types"],
+  "homepage": "https://github.com/lukasbesch/acf-field-range",
+  "authors": [
         {
             "name": "Lukas Besch",
             "email": "connect@lukasbesch.com"
         }
-    ],
-    "require": {}
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
 }
